@@ -1,7 +1,17 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/today_weather/weather/weather",
+    "pages/today_weather/bug/bug",
+    "pages/idea/idea_success/idea_success",
+    "pages/idea/idea_submit/idea_submit",
+    "pages/my/registration/registration",
+    "pages/my/Login/login",
+    "pages/my/my_index/my_index",
+    "pages/my/my/my",
+    "pages/my/edit/edit"
+
+
   ],
   "window":{
     "backgroundTextStyle":"light",
