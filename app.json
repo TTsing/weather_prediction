@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/my/my/my",
     "pages/index/index",
     "pages/today_weather/weather/weather",
     "pages/today_weather/bug/bug",
@@ -8,7 +9,6 @@
     "pages/my/registration/registration",
     "pages/my/Login/login",
     "pages/my/my_index/my_index",
-    "pages/my/my/my",
     "pages/my/edit/edit"
 
 
@@ -16,7 +16,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "天气",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",
