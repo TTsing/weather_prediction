@@ -21,3 +21,11 @@
 	font-weight: bold;
   position: relative;
 }
+
+/**设置图片尺寸**/
+.container1 image{ 
+  width: 300rpx;
+	height: 300rpx;
+	left: 13rpx;
+	top: 75rpx;
+}
